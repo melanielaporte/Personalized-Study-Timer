@@ -1,22 +1,13 @@
-<h1 align="center">Front End Project Template</h1>
+<h1 align="center">Build the Personalized Study Timer</h1> 
 
-This README.md file contains starter titles and subtitles. 
-The folder contains boilerplate HTML, CSS, and JavaScript code. 
-
-
+## Features
+- Start/stop a 25-minute timer.
+- Show a countdown.
+- Play a beep sound when time’s up.
  
-# Type here...
+## Demo
 Type here...
 
-## Type here...
-
-Type here...
-
-### Type here...
-Type here...
-
-# Type here...
-- 
 
 
 
