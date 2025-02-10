@@ -1,4 +1,4 @@
-<h1 align="center">Build the Personalized Study Timer</h1> 
+<h1 align="center">Personalized Study Timer</h1> 
 
 ## Features
 - Start/stop a 25-minute timer.
