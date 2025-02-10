@@ -11,11 +11,6 @@ This is a simple yet effective **Pomodoro study timer** , designed to improve pr
 ## Tech Used
 HTML, CSS (Frontend UI)
 JavaScript (DOM Manipulation, Timer Logic)
-📂 Features
-✔ 25-minute Pomodoro Timer for structured work sessions
-✔ Real-time countdown display with auto-updating UI
-✔ Start and Reset buttons for user control
-✔ Alert when time is up to indicate a break
 
 ## UI
 
