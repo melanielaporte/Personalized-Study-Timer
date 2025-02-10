@@ -9,8 +9,8 @@ This is a simple yet effective **Pomodoro study timer** , designed to improve pr
 - Alert when time is up to indicate a break
 
 ## Tech Used
-HTML, CSS (Frontend UI)
-JavaScript (DOM Manipulation, Timer Logic)
+- HTML, CSS (Frontend UI)
+- JavaScript (DOM Manipulation, Timer Logic)
 
 ## UI
 
